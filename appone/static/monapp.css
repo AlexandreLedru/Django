@@ -1,0 +1,27 @@
+body {
+    background-color: #132B40;
+    font-family: 'Lato', sans-serif;
+}
+.user {
+    color: #D9A566;
+    text-align: center;
+    font-size: 40px;
+}
+
+h1 {
+    font-family: 'Ubuntu', sans-serif;
+    color: #BF4974;
+    font-size: 60px;
+    text-align: center;
+}
+
+.table {
+	display: table;   /* Allow the centering to work */
+	margin: 0 auto;
+}
+
+ul.horizontal-list {
+	min-width: 15px;
+	list-style : none;
+	padding-top: 20px;
+}
